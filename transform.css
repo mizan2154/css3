@@ -1,0 +1,12 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blueviolet;
+}
+.outer{
+    background-color: brown;
+}
+.inner{
+    background-color: red;
+    transform: scale(.5);
+}
